@@ -58,12 +58,6 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
 			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
 		</li>
-		<li>
-			<packageId>imranfish.xmlextensions</packageId>
-			<displayName>XML Extensions</displayName>
-			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
-		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>

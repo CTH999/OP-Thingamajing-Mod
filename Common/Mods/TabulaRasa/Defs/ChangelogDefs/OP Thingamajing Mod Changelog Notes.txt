@@ -26,3 +26,6 @@ made What's That Mod load bellow this in load order
 1.2.4
 made diety more OP by makeing enemies think it's worthless
 made diety not occur without players adding it. I think.
+
+3.1.0
+update to 1.7

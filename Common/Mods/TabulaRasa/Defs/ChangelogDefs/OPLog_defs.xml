@@ -227,4 +227,34 @@ Adjust the load order so that a translation loads before it
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+			<!-- version 3.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_20261022</defName>
+		<date>2026/10/22</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Rimworld 1.7</header>
+				<text>Make compatible with rimworld 1.7
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/v3.1.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>Simplified Chinese translation</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3531010342</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
